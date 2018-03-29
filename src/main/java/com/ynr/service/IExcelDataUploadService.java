@@ -7,5 +7,7 @@ public interface IExcelDataUploadService {
 	public void processExcelDataUploadForEVUSAndFrance(DefaultMultipartHttpServletRequest multipartRequest, String userId, int countryId);
 	
 	public void processExcelDataUploadForAustarlia(DefaultMultipartHttpServletRequest multipartRequest, String userId, int countryId);
+
+	public void processExcelDataUploadForIndia(DefaultMultipartHttpServletRequest multipartRequest, String userId, int countryId);
 	
 }

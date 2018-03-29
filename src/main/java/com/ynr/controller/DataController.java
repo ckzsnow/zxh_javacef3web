@@ -119,6 +119,8 @@ public class DataController {
 			excelDataUploadService.processExcelDataUploadForEVUSAndFrance(multipartRequest, userId, selectCountry_);
 		} else if(selectCountry_ == 4) {
 			excelDataUploadService.processExcelDataUploadForAustarlia(multipartRequest, userId, selectCountry_);
+		} else if(selectCountry_ == 7) {
+			excelDataUploadService.processExcelDataUploadForIndia(multipartRequest, userId, selectCountry_);
 		}
 		Map<String, String> retMap = new HashMap<>();
 		retMap.put("url", "url");

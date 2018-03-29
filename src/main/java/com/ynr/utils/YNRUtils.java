@@ -11,6 +11,6 @@ public class YNRUtils {
 		countryIdToEngMap.put(4, "australia");
 		countryIdToEngMap.put(5, "evus");
 		countryIdToEngMap.put(6, "france");
+		countryIdToEngMap.put(7, "india");
 	}
-	
 }
