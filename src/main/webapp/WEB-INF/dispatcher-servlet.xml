@@ -83,9 +83,9 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver">
 		</property>
 		<property name="url"
-			value="jdbc:mysql://117.48.211.42:3306/autofillform?useUnicode=true&amp;characterEncoding=UTF-8"></property>
+			value="jdbc:mysql://120.132.93.249:3306/autofillform?useUnicode=true&amp;characterEncoding=UTF-8"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="Cckzcbm110"></property>
+		<property name="password" value="zaq12wsx"></property>
 		<property name="maxIdle" value="30"></property>
 		<property name="defaultAutoCommit" value="true"></property>
 	</bean>
